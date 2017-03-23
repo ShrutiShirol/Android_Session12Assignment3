@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExpandableNotification12.3</string>
+
+    <string name="title_activity_main">JB Notification</string>
+    <string name="tvHandleNotification">You can handle notification intent here.</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>
